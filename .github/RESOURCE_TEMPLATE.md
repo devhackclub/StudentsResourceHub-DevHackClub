@@ -42,3 +42,7 @@
 [Include any additional information or notes about the resource, such as publication date or version.]
 
 ![Resource Image or Thumbnail](resource-image-link.png)
+
+---
+
+This is just a dummy template
