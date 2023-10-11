@@ -12,7 +12,7 @@ To get started, please follow these guidelines:
 
 3. **Create a New Branch**: Create a new branch for your contribution using a descriptive name. For example, `git checkout -b add-python-resources`.
 
-4. **Add Resources**: Add your resources, descriptions, and any necessary changes to the repository.
+4. **Add Resources**: Add your resources, descriptions, and any necessary changes to the repository in a separate file.
 
 5. **Commit Your Changes**: Commit your changes with clear and concise commit messages.
 

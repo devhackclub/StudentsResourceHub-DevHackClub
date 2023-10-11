@@ -39,17 +39,17 @@ The Student Resource Hub is a collaborative platform where students can find and
 
 We welcome contributions from students like you! Whether you want to share educational materials, add study tips, or improve the platform itself, here's how you can get involved:
 
-- [Read our Contribution Guidelines](CONTRIBUTING.md) to understand how to contribute effectively.
+- [Read our Contribution Guidelines](.github/CONTRIBUTING.md) to understand how to contribute effectively.
 - Browse the categories and add your own resources to help fellow students.
 - Review and rate resources to help others find the best materials.
 - Join our community discussions to connect with fellow contributors.
 
 ## Code of Conduct
 
-Please read and follow our [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a respectful and inclusive environment for all contributors and users.
+Please read and follow our [Code of Conduct](.github/CODE_OF_CONDUCT.md) to ensure a respectful and inclusive environment for all contributors and users.
 
 ## Privacy Policy
 
-Your privacy is important to us. Read our [Privacy Policy](PRIVACY_POLICY.md) to understand how we handle your data and ensure your information is secure.
+Your privacy is important to us. Read our [Privacy Policy](.github/PRIVACY_POLICY.md) to understand how we handle your data and ensure your information is secure.
 
 [Visit the Repository](https://github.com/devhackclub/StudentsResourceHub-DevHackClub)
