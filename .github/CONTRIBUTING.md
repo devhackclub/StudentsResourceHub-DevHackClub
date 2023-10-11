@@ -24,6 +24,6 @@ To get started, please follow these guidelines:
 
 9. **Celebrate Your Contribution**: Your contribution will help fellow students! 🎉
 
-Please make sure your contributions align with our [Code of Conduct](CODE_OF_CONDUCT.md) and maintain a respectful and inclusive environment for all.
+Please make sure your contributions align with our [Code of Conduct](CODE_OF_CONDUCT.md) and maintain a respectful and inclusive environment for all and don't change existing files or add anything to them.
 
 Thank you for being a part of the Student Resource Hub community!
