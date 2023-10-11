@@ -62,6 +62,7 @@ Welcome to the Web Development Resource Guide! This guide is designed to help be
 - Introduce popular frontend frameworks like React, Angular, and Vue.js.
 - Explain their benefits and use cases.
 - Provide resources for learning and getting started with each framework.
+- [React Patterns, Techniques and Tips and Tricks](https://github.com/vasanthk/react-bits)
 
 ### Backend Technologies
 
@@ -92,6 +93,9 @@ Welcome to the Web Development Resource Guide! This guide is designed to help be
 - Recommend books, online courses, and websites for in-depth learning.
 - Provide links to official documentation for web technologies.
 - Encourage readers to explore and practice web development continuously.
+- [Free Public APIs](https://github.com/cjbell/Public-APIs)
+- [Browser Side Javascript Libraries and other shiny things](https://github.com/sorrycc/awesome-javascript)
+- [Web Development Resources](https://github.com/markodenic/web-development-resources)
 
 ## Conclusion
 
