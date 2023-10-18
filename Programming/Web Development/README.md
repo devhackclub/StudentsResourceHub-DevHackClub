@@ -57,6 +57,24 @@ Welcome to the Web Development Resource Guide! This guide is designed to help be
 - Introduce media queries and CSS frameworks for responsive layouts.
 - Provide examples of creating responsive web pages.
 
+### General Web Design Resources
+
+- [Flat UI Colors](https://flatuicolors.com)
+- [Dribbble - A hub for design templates](https://dribbble.com/)
+- [Transparent Textures](https://www.transparenttextures.com/)
+- [Design Templates for Dope Developers](https://dopeui.co/)
+- [Free Icons, SVGs, Photos and Illustrations](https://icons8.com/)
+- [Material UI](https://mui.com/)
+- [Flow Chart and Online Diagrams Maker](https://app.diagrams.net/)
+- [CSS Box Shadow Generator](https://www.cssmatic.com/box-shadow)
+- [Swpier - Touch Slider Maker for Web Apps](https://swiperjs.com/)
+- [Whimsical - Visual Collaboration Tool](https://whimsical.com/)
+- [Turn Photos into Designs](https://www.designify.com/)
+- [Remove Background from Images](https://www.remove.bg/)
+- [Frontend Mentor](https://www.frontendmentor.io/)
+- [Hero Icons - Free SVG Icons](https://heroicons.com/)
+- [A huge Directory of AI Tools](https://www.futurepedia.io/)
+
 ### Frontend Frameworks
 
 - Introduce popular frontend frameworks like React, Angular, and Vue.js.
@@ -75,6 +93,7 @@ Welcome to the Web Development Resource Guide! This guide is designed to help be
 - Explain the role of databases in web development.
 - Introduce relational and NoSQL databases.
 - Provide guidance on using databases with backend technologies.
+- [Database Diagram Maker](https://dbdiagram.io/home)
 
 ### Deployment
 
@@ -88,14 +107,20 @@ Welcome to the Web Development Resource Guide! This guide is designed to help be
 - Explain best practices for securing web applications.
 - Provide resources for learning about web security.
 
-### Resources and Further Learning
+### Resources, APIs and Further Learning
 
 - Recommend books, online courses, and websites for in-depth learning.
 - Provide links to official documentation for web technologies.
 - Encourage readers to explore and practice web development continuously.
 - [Free Public APIs](https://github.com/cjbell/Public-APIs)
+- [Big List of Free and Open Public APIs](https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/)
+- [In-App Chat Builder for Mobile and Web Applications](https://getstream.io/)
 - [Browser Side Javascript Libraries and other shiny things](https://github.com/sorrycc/awesome-javascript)
 - [Web Development Resources](https://github.com/markodenic/web-development-resources)
+- [Rapid API](https://rapidapi.com/hub)
+- [Makeup Products API](http://makeup-api.herokuapp.com/api/v1/products.json)
+- [Fake Store API](https://fakestoreapi.com/products/)
+- 
 
 ## Conclusion
 
